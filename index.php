@@ -3,6 +3,7 @@
 <head>
     <title>Aplikasi Enkripsi dan Dekripsi Pesan</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="icon" type="image/png" href="icon/encryption.png">
 </head>
 
 <body>
