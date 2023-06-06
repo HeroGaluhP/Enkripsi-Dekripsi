@@ -25,6 +25,3 @@ Aplikasi ini adalah sebuah aplikasi web sederhana yang digunakan untuk melakukan
 
 ### Kontribusi
 Kontribusi terhadap pengembangan dan perbaikan aplikasi ini sangat diperbolehkan. Jika Anda ingin berkontribusi, silakan fork repository ini, buat perubahan yang diperlukan, dan ajukan pull request untuk ditinjau.
-
-### Lisensi
-Aplikasi ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
