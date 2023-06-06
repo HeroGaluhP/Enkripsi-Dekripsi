@@ -43,10 +43,14 @@
             cursor: pointer;
         }
 
-        .result {
-            margin-top: 20px;
-            border: 1px solid #ccc;
-            padding: 10px;
+        .result label {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .result textarea {
+            width: 100%;
+            height: 100px;
         }
     </style>
 </head>
